@@ -4,9 +4,7 @@ import SearchBar from './SearchBar';
 const App = () =>{
     return (
     <div> 
-        <form>
-            <input type="text"/>
-        </form>
+        <SearchBar/>
     </div>
     );
 };
